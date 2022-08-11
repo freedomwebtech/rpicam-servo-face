@@ -1,5 +1,4 @@
 import cv2
-from time import sleep
 import RPi.GPIO as GPIO
 import mediapipe as mp
 GPIO.setwarnings(False)
